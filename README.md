@@ -23,6 +23,10 @@
 - [MintLife Blog - Personal Finance News & Advice](https://blog.mint.com/)
 - [Mr. Money Mustache](https://www.mrmoneymustache.com/)
 
+### Books
+
+- [ The Psychology of Money by Morgan Housel](https://www.goodreads.com/book/show/41881472-the-psychology-of-money)
+
 ### Community
 
 - [Bogleheads](http://www.bogleheads.org/) - A forum and a wiki with financial news and theory.
@@ -52,6 +56,7 @@
 - [Tiller Money](https://www.tillerhq.com/) - A service that imports financial transactions into Google Sheets.
 - [Tricount](https://www.tricount.com/) - A mobile app that helps group of people share expenses.
 - [YNAB](https://www.youneedabudget.com/) - A multi-platform personal budgeting program based on the envelope method.
+- [Ledger-cli](https://www.ledger-cli.org/) -  A powerful double-entry accounting system that is accessed from the command-line.
 
 ## License
 
